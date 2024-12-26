@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("9377dd92-1365-43e0-b69b-cab06cedd792")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("azure-app-aka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54e8675daf7e9c41f5b534bdb83ba5f6a6622009")]
 [assembly: System.Reflection.AssemblyProductAttribute("azure-app-aka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azure-app-aka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -5,6 +5,16 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>azure_app_aka</RootNamespace>
+    <ApplicationInsightsResourceId>/subscriptions/646a6c98-cbe9-4aed-8f4a-b6bd5faadfd0/resourceGroups/udemy-group/providers/microsoft.insights/components/azure-app-dep</ApplicationInsightsResourceId>
+    <UserSecretsId>9377dd92-1365-43e0-b69b-cab06cedd792</UserSecretsId>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="azure-app-aka.sln" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.21.0" />
+  </ItemGroup>
 
 </Project>
