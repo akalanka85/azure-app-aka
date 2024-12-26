@@ -1,0 +1,12 @@
+D:\Tutorial\Azure\azure-app-aka\bin\Release\net8.0\publish\azure-app-aka.exe
+D:\Tutorial\Azure\azure-app-aka\bin\Release\net8.0\publish\publish\web.config
+D:\Tutorial\Azure\azure-app-aka\bin\Release\net8.0\publish\appsettings.Development.json
+D:\Tutorial\Azure\azure-app-aka\bin\Release\net8.0\publish\appsettings.json
+D:\Tutorial\Azure\azure-app-aka\bin\Release\net8.0\publish\publish\appsettings.Development.json
+D:\Tutorial\Azure\azure-app-aka\bin\Release\net8.0\publish\publish\appsettings.json
+D:\Tutorial\Azure\azure-app-aka\bin\Release\net8.0\publish\publish\azure-app-aka.deps.json
+D:\Tutorial\Azure\azure-app-aka\bin\Release\net8.0\publish\publish\azure-app-aka.runtimeconfig.json
+D:\Tutorial\Azure\azure-app-aka\bin\Release\net8.0\publish\azure-app-aka.dll
+D:\Tutorial\Azure\azure-app-aka\bin\Release\net8.0\publish\azure-app-aka.deps.json
+D:\Tutorial\Azure\azure-app-aka\bin\Release\net8.0\publish\azure-app-aka.runtimeconfig.json
+D:\Tutorial\Azure\azure-app-aka\bin\Release\net8.0\publish\azure-app-aka.pdb

@@ -1,0 +1,7 @@
+D:\Tutorial\Azure\azure-app-aka\publish\azure-app-aka.exe
+D:\Tutorial\Azure\azure-app-aka\publish\appsettings.Development.json
+D:\Tutorial\Azure\azure-app-aka\publish\appsettings.json
+D:\Tutorial\Azure\azure-app-aka\publish\azure-app-aka.dll
+D:\Tutorial\Azure\azure-app-aka\publish\azure-app-aka.deps.json
+D:\Tutorial\Azure\azure-app-aka\publish\azure-app-aka.runtimeconfig.json
+D:\Tutorial\Azure\azure-app-aka\publish\azure-app-aka.pdb
